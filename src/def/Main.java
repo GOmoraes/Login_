@@ -14,5 +14,7 @@ public class Main {
 		a1.useSenha("julin");
 		
 		a1.Login("Juliob187_", "julin");
+		
+		System.setOut(null);
 	}
 }
